@@ -6,7 +6,7 @@ print("Here we can't consider 'equal(=)' sign because it doesn't affect a bit of
 print("This program is case-sensitive; this means that 'd*10' and '10*d' are treated differently. They are not the same.") 
 print("The format and input file for this program is as below..") 
 
-a = pd.read_csv("input.csv") 
+a = pd.read_csv("exp2/input.csv") 
 c = a.shape 
 print(a) 
 

@@ -1,7 +1,7 @@
 import pandas as pd
 print()
 print()
-f = open("SPCC1.txt", "r")
+f = open("exp3/SPCC1.txt", "r")
 n = 0
 lines = []
 ads = ['START','END','USING','DROP','DC','DS']

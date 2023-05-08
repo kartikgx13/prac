@@ -1,6 +1,6 @@
 import re
 
-f_input = open("macro_input.txt")
+f_input = open("exp4/macro_input.txt")
 inputcode = list(line.strip() for line in f_input)
 MDT = []
 MNT = {}
